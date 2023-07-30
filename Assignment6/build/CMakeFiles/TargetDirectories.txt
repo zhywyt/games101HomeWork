@@ -1,0 +1,3 @@
+/home/zhywyt/文档/games101/HomeWork/Homework6/Assignment6/build/CMakeFiles/RayTracing.dir
+/home/zhywyt/文档/games101/HomeWork/Homework6/Assignment6/build/CMakeFiles/edit_cache.dir
+/home/zhywyt/文档/games101/HomeWork/Homework6/Assignment6/build/CMakeFiles/rebuild_cache.dir
